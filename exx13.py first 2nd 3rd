@@ -1,0 +1,8 @@
+from sys import argv
+
+script, first, 2nd, 3rd = argv
+
+print "The scrip is called:", script
+print "Your first varibale is:", first
+print "Your second variable is:", second
+print "your third variable is:", third
