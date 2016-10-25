@@ -1,0 +1,22 @@
+class ISAAC(object):
+
+	def hola(self):
+		print "bajadpjsajda"
+		
+	def adeu(self):
+		print "okey"
+		
+
+class EVA(ISAAC):
+	
+	def hola():
+		pass
+		
+		
+boy = ISAAC()
+girl = EVA()
+
+boy.hola
+boy.adey
+girl.hola
+girl.adeu
